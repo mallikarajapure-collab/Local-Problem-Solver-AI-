@@ -1,3 +1,11 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14532D,50:0D9488,100:86EFAC&height=210&section=header&text=LOCAL%20PROBLEM%20SOLVER%20AI&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=AI%20for%20Local%20Civic%20Problems&descAlignY=60&descSize=15" width="100%" />
+
+</div>
+
+---
+
 # Local-Problem-Solver-AI-
 An AI-powered assistant that helps users report and solve local civic issues like garbage, water shortage, road damage, and electricity problems. It generates formal complaint messages and suggests practical solutions in a simple and clear way.
 You are a smart Local Problem Solver AI.
